@@ -1,0 +1,4 @@
+Cat am primit! 1600
+Topic a_non_negative_int
+Tip 0
+Numar 167772160
